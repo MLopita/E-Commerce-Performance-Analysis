@@ -61,7 +61,11 @@ The company faces multiple challenges in managing:
   - Total Revenue = SUM(Sales[Amount])  
   - AOV (Average Order Value) = DIVIDE([Total Revenue],[Total Orders])  
   - Revenue Growth % = DIVIDE(([Total Revenue]-CALCULATE([Total Revenue],DATEADD(Sales[Date],-1,MONTH))),CALCULATE([Total Revenue],DATEADD(Sales[Date],-1,MONTH)))  
-  - Cancellation Rate = DIVIDE([Cancelled Orders],COUNTROWS(Sales))*100  
+  - Cancellation Rate = DIVIDE([Cancelled Orders],COUNTROWS(Sales))*100
+
+ ### Step 5 – Video Representation
+- Created a PPT & Recorded a 7-minute video presentation explaining the dashboard design, and insights
+- Highlighted challenges, methodology, and recommendations in a clear storytelling format
 
 ## Key Insights  
 ### Financial Performance
