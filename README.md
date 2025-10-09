@@ -134,5 +134,4 @@ The company faces multiple challenges in managing:
 Email: lopitamishra2001@gmail.com  
 LinkedIn: https://linkedin.com/in/lopita-mishra-096534191  
 Portfolio: https://lopita-mishra-portfolio.netlify.app/
-Portfolio: https://lopita-mishra-portfolio.netlify.app/  
 GitHub: https://github.com/MLopita  
