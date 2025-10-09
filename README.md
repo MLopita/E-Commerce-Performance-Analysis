@@ -109,6 +109,7 @@ The company faces multiple challenges in managing:
 | Pandas, Matplotlib, Seaborn | Data processing & visualization |
 | Power BI | Dashboard development & DAX measures |
 | Excel | Data preparation & validation |
+| Power Point | Presentation of Power Bi charts |
 | GitHub | Version control & portfolio hosting |
 
 ## Project Components  
